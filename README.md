@@ -6,7 +6,7 @@
 
 Read#   |  Link
 -----------|-----------
-Read1      | [Link1]()
+Read1      | [Link1](https://aseelsamer.github.io/reading-notess/class01)
 Read2      | [Link2]()
 Read3      | [Link3]()
 Read4      | [Link4]()
