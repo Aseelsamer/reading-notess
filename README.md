@@ -8,7 +8,7 @@ Read#   |  Link
 -----------|-----------
 Read1      | [Class01](https://aseelsamer.github.io/reading-notess/class01)
 Read2      | [Class02](https://aseelsamer.github.io/reading-notess/class02)
-Read3      | [Link3]()
+Read3      | [Class03](https://aseelsamer.github.io/reading-notess/class03)
 Read4      | [Link4]()
 Read5      | [Link5]()
 Read6      | [Link6]()
