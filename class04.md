@@ -6,24 +6,14 @@ When you are linking to other pages within the same site,
 you do not need to specify the domain name in the URL. You
 can use a shorthand known as a relative URL.
 
-Every page and every image on
-a website has a URL and this URL is
-made up of the domain name
-followed by the path to that page
-or image.
-Relative URLs can be used when linking to pages within your own
-website. They provide a shorthand way of telling the browser where to
-find your files.
+Every page and every image on a website has a URL and this URL is made up of the domain name followed by the path to that page or image.
+Relative URLs can be used when linking to pages within your own website. They provide a shorthand way of telling the browser where to find your files.
 
 
 #LAYOUT:
-Building blocks:CSS treats each HTML element as if it is in its
-own box. This box will either be a block-level
-box or an inline box.
+Building blocks:CSS treats each HTML element as if it is in its own box. This box will either be a block-level box or an inline box.
 
-If one block-level element sits inside another
-block-level element then the outer box is
-known as the containing or parent element.
+If one block-level element sits inside another block-level element then the outer box is known as the containing or parent element.
 
 Controlling the position of elements:
 Normal flow : every block elements appears on a new line.
@@ -33,7 +23,9 @@ Absolute positioning: this positions the element in relation to its containing e
 To indicate where a box should be positioned, you may also need to use box offset properties to tell the browser how far from the top or bottom and left or right it should be placed. 
 
 Different visitors to your site will have different sized screens that show different amounts of information, so your design needs to be able to work on a range of different sized screens.
+
 Resolution refers to the number of dots a screen shows per inch. 
+
 Some devices have a higher resolution than desktop computers and most operating systems allow users to adjust the resolution of their screens.
 Fixed width layout designs do not change size as the
 user increases or decreases the size of their browser window.
