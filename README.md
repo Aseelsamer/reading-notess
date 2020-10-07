@@ -1,6 +1,6 @@
 # code 201 Reading Notes
 
-***In this website you will all my 201 reading notes ***
+***In this website you will find all my 201 reading notes ***
 
 ##Table of my reading assignments
 
