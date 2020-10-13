@@ -15,20 +15,20 @@ its value is the URL for the page .
 Forms can be sent using two forms : -With the get method 
 -With the post method
 
-The <input> element is used to create several different form controls. The value of the type
+The -input- element is used to create several different form controls. The value of the type
 attribute determines what kind of input they will be creating.
-The <textarea> element is used to create a mutli-line
+The -textarea- element is used to create a mutli-line
 text input. Unlike other input elements this is not an empty
 element. It should therefore have an opening and a closing tag. 
 
 A drop down list box allows users to select one option from a drop down list.
-The <select> element is used to create a drop down list box. It contains two or more <option> elements. 
-The <button> element was
+The -select- element is used to create a drop down list box. It contains two or more -option- elements. 
+The -button- element was
 introduced to allow users more control over how their buttons appear, and to allow other elements to appear inside the button.
 
 #LISTS,TABLES AND FORMS :
 The list-style-type property allows you to control the shape or style of a bullet point (also known as a marker).
-It can be used on rules that apply to the <ol>, <ul>, and <li> elements.
+It can be used on rules that apply to the -ol-, -ul-, and -li- elements.
 You can specify an image to act as a bullet point using the list-style-image property.
 
 the list-styleposition property indicates whether the marker should appear on the inside or the outside of the box.
